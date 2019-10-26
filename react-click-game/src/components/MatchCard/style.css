@@ -1,7 +1,7 @@
 .card {
-    background: rgb(223, 221, 221);
+    background: rgba(133, 188, 194, 0.342);
     border-radius: 2px;
-    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+    box-shadow: 0 3px 6px rgb(58, 6, 141), 0 3px 6px rgb(110, 44, 44);
     text-align: left;
     justify-content: center;
 }
@@ -10,7 +10,7 @@
 .card>.img-container {
     overflow: hidden;
     text-align: center;
-    background: black;
+    background: rgb(0, 0, 0);
     justify-content: center;  
     margin: 20px;   
 }
