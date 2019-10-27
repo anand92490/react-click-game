@@ -6,4 +6,4 @@ Clicky-Game is a Memory game built with React. Every time the player clicks on t
 
 [Play the game](https://clickyy-reactt-game.herokuapp.com)
 
-[demo](./public/assets/images/clickgame.gif)
+![demo](./public/assets/images/clickgame.gif)
